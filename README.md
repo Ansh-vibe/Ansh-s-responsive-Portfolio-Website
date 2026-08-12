@@ -1,3 +1,7 @@
+> 🚧 **STATUS: IN PROGRESS**
+>
+> This resume website is currently under active development. New sections, improvements, projects, animations, and features are being added regularly.
+
 # Ansh Vishwakarma — Resume Website
 
 > **A modern, responsive resume website showcasing my skills, experience, projects, education, and journey as a Full-Stack Developer.**
