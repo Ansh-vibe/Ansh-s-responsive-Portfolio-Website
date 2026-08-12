@@ -2,7 +2,7 @@
 
 > **A modern, responsive resume website showcasing my skills, experience, projects, education, and journey as a Full-Stack Developer.**
 
-🌐 **Live Resume:** https://ansh-s-responsive-portfolio-website-8xrny16rs.vercel.app/
+🌐 **Live Resume:** https://ansh-s-responsive-git-2bf6c9-anshvishwakarma1518-7546s-projects.vercel.app/
 
 ---
 
@@ -313,7 +313,7 @@ Have a good idea?
 ### Online
 
 🌐 **Resume Website:**  
-https://ansh-s-responsive-portfolio-website-8xrny16rs.vercel.app/
+https://ansh-s-responsive-git-2bf6c9-anshvishwakarma1518-7546s-projects.vercel.app/
 
 💻 **GitHub:**  
 https://github.com/Ansh-vibe
